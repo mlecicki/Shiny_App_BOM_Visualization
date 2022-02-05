@@ -1,0 +1,55 @@
+﻿Plant,Material,Material_Type,Material_Lifecycle_stage,BOM,Component,Component_Type,Component_Lifecycle_Stage
+plant_1,material_1,FG,growth,bom_1,material_2,RM,introduction
+plant_1,material_1,FG,growth,bom_1,material_3,RM,introduction
+plant_1,material_1,FG,growth,bom_1,material_4,PCK,end of life
+plant_1,material_1,FG,growth,bom_1,material_5,SFG,growth
+plant_1,material_1,FG,growth,bom_1,material_6,SFG,decline
+plant_1,material_5,SFG,growth,bom_2,material_7,RM,introduction
+plant_1,material_5,SFG,growth,bom_2,material_8,RM,introduction
+plant_1,material_5,SFG,growth,bom_2,material_9,RM,growth
+plant_1,material_6,SFG,decline,bom_3,material_2,RM,introduction
+plant_1,material_6,SFG,decline,bom_3,material_3,RM,introduction
+plant_1,material_6,SFG,decline,bom_3,material_7,RM,introduction
+plant_1,material_6,SFG,decline,bom_3,material_8,RM,introduction
+plant_1,material_6,SFG,decline,bom_3,material_10,RM,decline
+plant_1,material_11,FG,introduction,bom_4,material_4,PCK,end of life
+plant_1,material_11,FG,introduction,bom_4,material_2,RM,introduction
+plant_1,material_11,FG,introduction,bom_4,material_13,RM,decline
+plant_1,material_11,FG,introduction,bom_4,material_14,SFG,end of life
+plant_1,material_14,SFG,end of life,bom_5,material_15,RM,decline
+plant_1,material_14,SFG,end of life,bom_5,material_16,RM,growth
+plant_1,material_17,FG,introduction,bom_6,material_18,PCK,end of life
+plant_1,material_17,FG,introduction,bom_6,material_19,RM,maturity
+plant_1,material_17,FG,introduction,bom_6,material_20,RM,introduction
+plant_1,material_17,FG,introduction,bom_6,material_2,RM,introduction
+plant_1,material_17,FG,introduction,bom_6,material_21,SFG,end of life
+plant_1,material_21,SFG,end of life,bom_7,material_22,RM,maturity
+plant_1,material_21,SFG,end of life,bom_7,material_3,RM,introduction
+plant_1,material_21,SFG,end of life,bom_7,material_8,RM,introduction
+plant_2,material_10,FG,decline,bom_10,material_20,RM,introduction
+plant_2,material_10,FG,decline,bom_10,material_30,RM,growth
+plant_2,material_10,FG,decline,bom_10,material_40,PCK,growth
+plant_2,material_10,FG,decline,bom_10,material_50,SFG,introduction
+plant_2,material_10,FG,decline,bom_10,material_60,SFG,decline
+plant_2,material_50,SFG,introduction,bom_20,material_70,RM,end of life
+plant_2,material_50,SFG,introduction,bom_20,material_80,RM,end of life
+plant_2,material_50,SFG,introduction,bom_20,material_90,RM,decline
+plant_2,material_60,SFG,decline,bom_30,material_20,RM,introduction
+plant_2,material_60,SFG,decline,bom_30,material_30,RM,growth
+plant_2,material_60,SFG,decline,bom_30,material_70,RM,end of life
+plant_2,material_60,SFG,decline,bom_30,material_80,RM,end of life
+plant_2,material_60,SFG,decline,bom_30,material_100,RM,end of life
+plant_2,material_110,FG,introduction,bom_40,material_4,PCK,end of life
+plant_2,material_110,FG,introduction,bom_40,material_2,RM,introduction
+plant_2,material_110,FG,introduction,bom_40,material_13,RM,decline
+plant_2,material_110,FG,introduction,bom_40,material_14,SFG,end of life
+plant_2,material_140,SFG,introduction,bom_50,material_15,RM,decline
+plant_2,material_140,SFG,introduction,bom_50,material_16,RM,growth
+plant_2,material_170,FG,decline,bom_60,material_18,PCK,end of life
+plant_2,material_170,FG,decline,bom_60,material_19,RM,maturity
+plant_2,material_170,FG,decline,bom_60,material_20,RM,introduction
+plant_2,material_170,FG,decline,bom_60,material_2,RM,introduction
+plant_2,material_170,FG,decline,bom_60,material_21,SFG,end of life
+plant_2,material_210,SFG,end of life,bom_70,material_22,RM,maturity
+plant_2,material_210,SFG,end of life,bom_70,material_3,RM,introduction
+plant_2,material_210,SFG,end of life,bom_70,material_8,RM,introduction
