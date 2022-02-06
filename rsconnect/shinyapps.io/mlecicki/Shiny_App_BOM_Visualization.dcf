@@ -1,0 +1,13 @@
+name: Shiny_App_BOM_Visualization
+title: Shiny_App_BOM_Visualization
+username:
+account: mlecicki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5590812
+bundleId: 5548915
+url: https://mlecicki.shinyapps.io/Shiny_App_BOM_Visualization/
+when: 1644156734.63525
+lastSyncTime: 1644156734.63525
+asMultiple: FALSE
+asStatic: FALSE

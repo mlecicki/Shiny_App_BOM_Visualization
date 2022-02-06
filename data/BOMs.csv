@@ -1,4 +1,4 @@
-﻿Plant,Material,Material_Type,Material_Lifecycle_stage,BOM,Component,Component_Type,Component_Lifecycle_Stage
+﻿Plant,Material,Material_Type,Material_Lifecycle_Stage,BOM,Component,Component_Type,Component_Lifecycle_Stage
 plant_1,material_1,FG,growth,bom_1,material_2,RM,introduction
 plant_1,material_1,FG,growth,bom_1,material_3,RM,introduction
 plant_1,material_1,FG,growth,bom_1,material_4,PCK,end of life
